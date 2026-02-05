@@ -1,7 +1,7 @@
 # Give your enchanted items more color and utility
 
 
-(image from enchant icons this pack uses roman numerals for enchant values)
+### (image from enchant icons this pack uses roman numerals for enchant values)
 ![enter image description here](https://cdn.modrinth.com/data/6vhHOIKw/images/c1f7dba7aa3af28e52119023749a1671367d760a.png) 
 #### Full language support 
 ![enter image description here](https://i.imgur.com/yBGgVY2.png) 
